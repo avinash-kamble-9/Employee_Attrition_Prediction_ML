@@ -31,9 +31,9 @@ IBM HR Analytics Employee Attrition Dataset
 ## 🧠 Results
 | Model | Accuracy |
 |--------|-----------|
-| Logistic Regression | 83% |
-| KNN | 80% |
-| Decision Tree | **86%** |
+| Logistic Regression | 89% |
+| KNN | 86% |
+| Decision Tree | **82%** |
 
 ---
 
